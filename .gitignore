@@ -1,0 +1,9 @@
+.venv/
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+allure-results/
+.work/
+.env

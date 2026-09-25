@@ -1,0 +1,14 @@
+launch_status_failed 2
+launch_status_broken 0
+launch_status_passed 28
+launch_status_skipped 0
+launch_status_unknown 0
+launch_time_duration 330054
+launch_time_min_duration 88
+launch_time_max_duration 29118
+launch_time_sum_duration 40049
+launch_time_start 1790257987372
+launch_time_stop 1790258317426
+launch_problems_bug-001:_перепутаны_описания_тарифов 2
+launch_retries_retries 0
+launch_retries_run 30
